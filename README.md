@@ -8,12 +8,12 @@
   - [x] 1.2 并行计算的应用
   - [x] 1.3 本书的组织结构
 
-## [**Chapter 2 - Parallel Programming Platforms**](./Chapter%202%20-%20Parallel%20Programming%20Platforms/)
+## [**Chapter 2 - 并行编程平台**](./Chapter%202%20-%20Parallel%20Programming%20Platforms/)
 
-  - [ ] [2.1 Implicit Parallelism: Trends in Microprocessor Architectures](#)
-  - [ ] [2.2 Limitations of Memory System Performance](#)
-  - [ ] [2.3 Dichotomy of Parallel Computing Platforms](#)
-  - [ ] [2.4 Physical Organization of Parallel Platforms](#)
+  - [ ] [2.1 隐式并行 - 微处理器架构的趋势](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.1%20Implicit%20Parallelism%20Trends%20in%20Microprocessor%20Architectures/)
+  - [ ] [2.2 内存系统性能的限制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.2%20Limitations%20of%20Memory%20System%20Performance/)
+  - [ ] [2.3 并行计算平台的二分法](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms/)
+  - [ ] [2.4 并行平台的物理结构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.4%20Physical%20Organization%20of%20Parallel%20Platforms)
   - [ ] [2.5 Communication Costs in Parallel Machines](#)
   - [ ] [2.6 Routing Mechanisms for Interconnection Networks](#)
   - [ ] [2.7 Impact of Process-Processor Mapping and Mapping Techniques](#)
