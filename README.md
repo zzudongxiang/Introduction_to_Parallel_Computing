@@ -2,11 +2,11 @@
 
 > 原文参考链接：[http://users.atw.hu/parallelcomp/index.html](http://users.atw.hu/parallelcomp/index.html)
 
-## [**Chapter 1 - Introduction to Parallel Computing**](./Chapter%201%20-%20Introduction%20to%20Parallel%20Computing/)
+## [**Chapter 1 - 并行计算简介**](./Chapter%201%20-%20Introduction%20to%20Parallel%20Computing/)
 
-  - [x] [1.1 Motivating Parallelism](#)
-  - [x] [1.2 Scope of Parallel Computing](#)
-  - [x] [1.3 Organization and Contents of the Text](#)
+  - [x] 1.1 并行计算的动机
+  - [x] 1.2 并行计算的应用
+  - [x] 1.3 本书的组织结构
 
 ## [**Chapter 2 - Parallel Programming Platforms**](./Chapter%202%20-%20Parallel%20Programming%20Platforms/)
 
