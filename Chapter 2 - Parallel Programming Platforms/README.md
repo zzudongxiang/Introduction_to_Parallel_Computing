@@ -36,4 +36,21 @@
 - **2.4.3 网络拓扑**
 - **2.4.4 评估静态互连网络**
 - **2.4.5 评估动态互连网络**
-- **2.4.6 多处理器系统的缓存一致性（未校对）**
+- **2.4.6 多处理器系统的缓存一致性**
+
+## [2.5 Communication Costs in Parallel Machines](./2.5%20Communication%20Costs%20in%20Parallel%20Machines/)
+
+并行程序执行过程中的主要开销之一来自处理元件之间的信息通信。通信成本取决于多种特性，包括编程模型语义、网络拓扑结构、数据处理和路由选择，以及相关的软件协议。这些问题是我们在此讨论的重点。
+
+- **2.5.1 Message Passing Costs in Parallel Computers**
+- **2.5.2 Communication Costs in Shared-Address-Space Machines**
+
+## [2.6 Routing Mechanisms for Interconnection Networks](./2.6%20Routing%20Mechanisms%20for%20Interconnection%20Networks/)
+
+将信息路由到目的地的高效算法对并行计算机的性能至关重要。路由机制决定了信息通过网络从源节点到达目的节点的路径。它将信息的源节点和目的节点作为输入。它还可以使用网络状态信息。它返回一条或多条从源节点到目的节点的网络路径。
+
+## [2.7 Impact of Process-Processor Mapping and Mapping Techniques](./2.7%20Impact%20of%20Process-Processor%20Mapping%20and%20Mapping%20Techniques/)
+正如我们在第 2.5.1 节中所讨论的，程序员通常无法控制逻辑进程如何映射到网络中的物理节点。因此，即使通信模式本身并不拥塞，也可能造成网络拥塞。下面我们举例说明：
+
+- **2.7.1 Mapping Techniques for Graphs**
+- **2.7.2 Cost-Performance Tradeoffs**
