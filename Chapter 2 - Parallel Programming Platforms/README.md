@@ -20,7 +20,7 @@
 
 ### 2.2.4 多线程与预取的权衡
 
-## [2.3 并行计算平台的二分法](./2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms/)
+## [2.3 并行计算平台的两部分](./2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms/)
 
 ### 2.3.1 并行平台的控制结构
 
