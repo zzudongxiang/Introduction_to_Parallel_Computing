@@ -14,7 +14,7 @@
   - [x] [2.2 内存系统性能的限制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.2%20Limitations%20of%20Memory%20System%20Performance/)
   - [x] [2.3 并行计算平台的两部分](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms/)
   - [x] [2.4 并行平台的物理结构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.4%20Physical%20Organization%20of%20Parallel%20Platforms)
-  - [ ] [2.5 Communication Costs in Parallel Machines](#)
+  - [x] [2.5 并行计算中的通信开销](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.5%20Communication%20Costs%20in%20Parallel%20Machines/)
   - [ ] [2.6 Routing Mechanisms for Interconnection Networks](#)
   - [ ] [2.7 Impact of Process-Processor Mapping and Mapping Techniques](#)
 

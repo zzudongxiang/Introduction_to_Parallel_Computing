@@ -38,12 +38,12 @@
 - **2.4.5 评估动态互连网络**
 - **2.4.6 多处理器系统的缓存一致性**
 
-## [2.5 Communication Costs in Parallel Machines](./2.5%20Communication%20Costs%20in%20Parallel%20Machines/)
+## [2.5 并行计算中的通信开销](./2.5%20Communication%20Costs%20in%20Parallel%20Machines/)
 
 并行程序执行过程中的主要开销之一来自处理元件之间的信息通信。通信成本取决于多种特性，包括编程模型语义、网络拓扑结构、数据处理和路由选择，以及相关的软件协议。这些问题是我们在此讨论的重点。
 
-- **2.5.1 Message Passing Costs in Parallel Computers**
-- **2.5.2 Communication Costs in Shared-Address-Space Machines**
+- **2.5.1 并行计算中的消息传递开销**
+- **2.5.2 并行计算中的内存共享开销**
 
 ## [2.6 Routing Mechanisms for Interconnection Networks](./2.6%20Routing%20Mechanisms%20for%20Interconnection%20Networks/)
 
