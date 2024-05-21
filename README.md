@@ -10,8 +10,8 @@
 
 ## [**Chapter 2 - 并行编程平台**](./Chapter%202%20-%20Parallel%20Programming%20Platforms/)
 
-  - [ ] [2.1 隐式并行 - 微处理器架构的趋势](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.1%20Implicit%20Parallelism%20Trends%20in%20Microprocessor%20Architectures/)
-  - [ ] [2.2 内存系统性能的限制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.2%20Limitations%20of%20Memory%20System%20Performance/)
+  - [x] [2.1 隐式并行 - 微处理器架构的趋势](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.1%20Implicit%20Parallelism%20Trends%20in%20Microprocessor%20Architectures/)
+  - [x] [2.2 内存系统性能的限制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.2%20Limitations%20of%20Memory%20System%20Performance/)
   - [ ] [2.3 并行计算平台的二分法](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms/)
   - [ ] [2.4 并行平台的物理结构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.4%20Physical%20Organization%20of%20Parallel%20Platforms)
   - [ ] [2.5 Communication Costs in Parallel Machines](#)
