@@ -14,15 +14,9 @@
 允许并发读取访问不会在程序中产生任何语义差异。但是，并发写入内存位置的访问则需要仲裁。有几种协议可用于解决并发写入问题。最常用的协议如下：
 
 - **通常（Common）**：如果处理器试图写入的所有值都相同，则允许并发写入。
-- **任意（Arbitrary）**：在这种情况下，选取任意一个处理器进行写入操作，其他处理器则失败
+- **竞争（Arbitrary）**：在这种情况下，选取任意一个处理器进行写入操作，其他处理器则失败
 - **优先级（Priority）**：即所有处理器被编入一个预定义的优先级列表，优先级最高的处理器成功，其他处理器失败。
-- **总和（Sum）**：其中写入所有数量的总和。（基于总和的写入冲突解决模型可以扩展到在正在写入的数量上定义的任何关联运算符）
-
-> [!NOTE]
->
-> ==Sum协议是什么意思？==
->
-> **Sum**, in which the sum of all the quantities is written (the sum-based write conflict resolution model can be extended to any associative operator defined on the quantities being written).
+- **总和（Sum）**：其中写入所有数量的总和，类似Reduce操作。（基于总和的写入冲突解决模型可以扩展到在正在写入的数量上定义的任何关联运算符）
 
 #### 理想模型的结构复杂性
 
@@ -152,9 +146,10 @@ Omega网络有 $p/2 \times \log p$ 个交换节点，其成本按 $\Theta(p \log
 <div align="center" id="fig2.13" name="fig2.13">
     <img src="./images/image-20240520180135755.png"/>
     <div>
-        图2.13 欧米茄网络阻塞示例：其中一条报文（010 至 111 或 110 至 100）在链路 AB 上被阻塞
+        图2.13 Omega网络阻塞示例：其中一条报文（010 至 111 或 110 至 100）在链路 AB 上被阻塞
     </div>
 </div>
+
 
 > [!NOTE]
 >
