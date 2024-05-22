@@ -45,7 +45,7 @@
 - **2.5.1 并行计算中的消息传递开销**
 - **2.5.2 并行计算中的内存共享开销**
 
-## [2.6 Routing Mechanisms for Interconnection Networks](./2.6%20Routing%20Mechanisms%20for%20Interconnection%20Networks.md)
+## [2.6 互联网络中的路由机制](./2.6%20Routing%20Mechanisms%20for%20Interconnection%20Networks.md)
 
 将信息路由到目的地的高效算法对并行计算机的性能至关重要。路由机制决定了信息通过网络从源节点到达目的节点的路径。它将信息的源节点和目的节点作为输入。它还可以使用网络状态信息。它返回一条或多条从源节点到目的节点的网络路径。
 
