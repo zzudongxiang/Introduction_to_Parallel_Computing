@@ -16,7 +16,7 @@
   - [x] [2.4 并行平台的物理结构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.4%20Physical%20Organization%20of%20Parallel%20Platforms.md)
   - [x] [2.5 并行计算中的通信开销](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.5%20Communication%20Costs%20in%20Parallel%20Machines.md)
   - [x] [2.6 互联网络的路由机制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.6%20Routing%20Mechanisms%20for%20Interconnection%20Networks.md)
-  - [ ] [2.7 Impact of Process-Processor Mapping and Mapping Techniques](#)
+  - [x] [2.7 进程到处理器的映射技术及其影响](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.7%20Impact%20of%20Process-Processor%20Mapping%20and%20Mapping%20Techniques.md)
 
 ## [**Chapter 3 - Principles of Parallel Algorithm Design**](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/)
 

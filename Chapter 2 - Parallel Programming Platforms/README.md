@@ -49,7 +49,7 @@
 
 将信息路由到目的地的高效算法对并行计算机的性能至关重要。路由机制决定了信息通过网络从源节点到达目的节点的路径。它将信息的源节点和目的节点作为输入。它还可以使用网络状态信息。它返回一条或多条从源节点到目的节点的网络路径。
 
-## [2.7 Impact of Process-Processor Mapping and Mapping Techniques](./2.7%20Impact%20of%20Process-Processor%20Mapping%20and%20Mapping%20Techniques.md)
+## [2.7 进程到处理器的映射技术及其影响](./2.7%20Impact%20of%20Process-Processor%20Mapping%20and%20Mapping%20Techniques.md)
 正如我们在第 2.5.1 节中所讨论的，程序员通常无法控制逻辑进程如何映射到网络中的物理节点。因此，即使通信模式本身并不拥塞，也可能造成网络拥塞。下面我们举例说明：
 
 - **2.7.1 Mapping Techniques for Graphs**
