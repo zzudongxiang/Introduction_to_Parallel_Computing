@@ -2,6 +2,8 @@
 
 > 原文参考链接：[http://users.atw.hu/parallelcomp/index.html](http://users.atw.hu/parallelcomp/index.html)
 
+**Get PDF File in** [./pdf](./pdf)
+
 ## [**Chapter 1 - 并行计算简介**](./Chapter%201%20-%20Introduction%20to%20Parallel%20Computing/)
 
   - [x] 1.1 并行计算的动机
