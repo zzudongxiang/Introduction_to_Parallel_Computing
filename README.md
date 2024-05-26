@@ -1,4 +1,4 @@
-# Introduction to Parallel Computing
+# 并行计算导论
 
 > 原文参考链接：[http://users.atw.hu/parallelcomp/index.html](http://users.atw.hu/parallelcomp/index.html)
 
