@@ -14,8 +14,8 @@
 
   - [x] [2.1 隐式并行 - 微处理器架构的趋势](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.1%20Implicit%20Parallelism%20Trends%20in%20Microprocessor%20Architectures.md)
   - [x] [2.2 内存系统性能的限制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.2%20Limitations%20of%20Memory%20System%20Performance.md)
-  - [x] [2.3 并行计算平台的两部分](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms.md)
-  - [x] [2.4 并行平台的物理结构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.4%20Physical%20Organization%20of%20Parallel%20Platforms.md)
+  - [x] [2.3 并行计算平台的逻辑架构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.3%20Dichotomy%20of%20Parallel%20Computing%20Platforms.md)
+  - [x] [2.4 并行平台的物理架构](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.4%20Physical%20Organization%20of%20Parallel%20Platforms.md)
   - [x] [2.5 并行计算中的通信开销](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.5%20Communication%20Costs%20in%20Parallel%20Machines.md)
   - [x] [2.6 互联网络的路由机制](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.6%20Routing%20Mechanisms%20for%20Interconnection%20Networks.md)
   - [x] [2.7 进程到处理器的映射技术及其影响](./Chapter%202%20-%20Parallel%20Programming%20Platforms/2.7%20Impact%20of%20Process-Processor%20Mapping%20and%20Mapping%20Techniques.md)
