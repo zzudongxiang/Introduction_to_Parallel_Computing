@@ -9,17 +9,28 @@
 - **Moore定律**
   - 在1965年，Gordon Moore根据观察预测芯片中晶体管的数量每年翻一倍（The complexity for minimum component costs has increased at a rate of roughly a factor of two per year）
   - 在1975年之后，将这一定律修改：芯片中晶体管的数量每18个月翻一倍（He revised his rate of circuit complexity doubling to 18 months and projected from 1975 onwards at this reduced rate）
+  
 - **算力的衡量标准**
   - 较早的时候以晶体管的数量作为算力衡量的标准
+  
   - 现在大多以每秒操作的数量（Operations per Second，OPS）作为算力的衡量标准
-  - ==备注==：*现在更常用的是使用每秒钟浮点计算的次数（FLOPS）作为算力的衡量标准*
+  
+  - ==备注==
+  
+    *现在更常用的是使用每秒钟浮点计算的次数（FLOPS）作为算力的衡量标准*
+  
+    *IPC作为衡量CPU算例的指标*
+  
+    > [!TIP]
+    >
+    > IPC vs. FLOPS
 
 ### 1.1.2 内存/硬盘速度的讨论
 
 - **重要性**
   - 计算的整体速度不仅取决于处理器的速度，还取决于内存系统向其提供数据的能力（The overall speed of computation is determined not just by the speed of the processor, but also by the ability of the memory system to feed data to it）
 - **发展现状&存在的问题**
-  - 在过去的十年中，高端处理器的时钟速率每年大约提高 40%，而 DRAM 的访问时间在此期间每年大约只提高 10%（While clock rates of high-end processors have increased at roughly 40% per year over the past decade, DRAM access times have only improved at the rate of roughly 10% per year over this interval）
+  - 在过去的十年中，高端处理器的时钟速率每年大约提高 40%，而 ==DRAM== 的访问时间在此期间每年大约只提高 10%（While clock rates of high-end processors have increased at roughly 40% per year over the past decade, DRAM access times have only improved at the rate of roughly 10% per year over this interval）
   - 处理器速度与 DRAM 延迟之间的这种日益严重的不匹配（This growing mismatch between processor speed and DRAM latency…）
 
 - **解决方案**
