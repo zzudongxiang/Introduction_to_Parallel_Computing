@@ -22,7 +22,7 @@
 
 ## [**Chapter 3 - 并行算法设计原则**](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/README.md)
 
-  - [ ] [3.1 预备知识](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.1%20Preliminaries.md)
+  - [x] [3.1 预备知识](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.1%20Preliminaries.md)
   - [ ] [3.2 分解技术](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.2%20Decomposition%20Techniques.md)
   - [ ] [3.3 任务与交互的特点](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.3%20Characteristics%20of%20Tasks%20and%20Interactions.md)
   - [ ] [3.4 负载平衡的映射技术](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.4%20Mapping%20Techniques%20for%20Load Balancing.md)
