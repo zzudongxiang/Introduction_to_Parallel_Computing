@@ -25,7 +25,7 @@
   - [x] [3.1 预备知识](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.1%20Preliminaries.md)
   - [x] [3.2 分解技术](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.2%20Decomposition%20Techniques.md)
   - [x] [3.3 任务与交互的特性](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.3%20Characteristics%20of%20Tasks%20and%20Interactions.md)
-  - [x] [3.4 负载平衡的映射技术](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.4%20Mapping%20Techniques%20for%20Load Balancing.md)
+  - [x] [3.4 负载平衡的映射技术](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.4%20Mapping%20Techniques%20for%20Load%20Balancing.md)
   - [x] [3.5 控制交互开销的方法](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.5%20Methods%20for%20Containing%20Interaction%20Overheads.md)
   - [x] [3.6 并行算法模型](./Chapter%203%20-%20Principles%20of%20Parallel%20Algorithm%20Design/3.6%20Parallel%20Algorithm%20Models.md)
 
