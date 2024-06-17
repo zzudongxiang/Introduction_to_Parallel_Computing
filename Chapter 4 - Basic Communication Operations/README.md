@@ -43,7 +43,7 @@ All-to-All Broadcast的通信模式还可用于执行其他一些操作。其中
 
 ## [4.5 All-to-All Personalized Communication](./4.5%20All-to-All%20Personalized%20Communication.md)
 
-在All-to-All Personalized Communication中，每个节点向其他每个节点发送大小为 $m$​ 的不同信息。每个节点向不同的节点发送不同的信息，这与全对全广播不同，在全对全广播中，每个节点向所有其他节点发送相同的信息。
+在**All-to-All Personalized Communication**中，每个节点向其他每个节点发送大小为 $m$ 的不同信息。每个节点向不同的节点发送不同的信息，这与All-to-All Broadcast不同，在All-to-All Broadcast中，每个节点向所有其他节点发送相同的信息。
 
 - **4.5.1 环型**
 - **4.5.2 二维网格**
