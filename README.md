@@ -31,14 +31,14 @@
 
 ## [**Chapter 4 - 基本的通信操作**](./Chapter%204%20-%20Basic%20Communication%20Operations/README.md)
 
-  - [ ] [4.1 One-to-All Broadcast和All-to-One Reduction](./Chapter%204%20-%20Basic%20Communication%20Operations/4.1%20One-to-All%20Broadcast%20and%20All-to-One%20Reduction.md)
-  - [ ] [4.2 All-to-All Broadcast和All-to-All Reduction](./Chapter%204%20-%20Basic%20Communication%20Operations/4.2%20All-to-All%20Broadcast%20and%20Reduction.md)
-  - [ ] [4.3 All-Reduce和Prefix-Sum操作](./Chapter%204%20-%20Basic%20Communication%20Operations/4.3%20All-Reduce%20and%20Prefix-Sum%20Operations.md)
-  - [ ] [4.4 Scatter和Gather操作](./Chapter%204%20-%20Basic%20Communication%20Operations/4.4%20Scatter%20and%20Gather.md)
-  - [ ] [4.5 All-to-All Personalized Communication](./Chapter%204%20-%20Basic%20Communication%20Operations/4.5%20All-to-All%20Personalized%20Communication.md)
-  - [ ] [4.6 循环移位](./Chapter%204%20-%20Basic%20Communication%20Operations/4.6%20Circular%20Shift.md)
-  - [ ] [4.7 提高通信速度的方法](./Chapter%204%20-%20Basic%20Communication%20Operations/4.7%20Improving%20the%20Speed%20of%20Some%20Communication%20Operations.md)
-  - [ ] [4.8 总结](./Chapter%204%20-%20Basic%20Communication%20Operations/4.8%20Summary.md)
+  - [x] [4.1 One-to-All Broadcast和All-to-One Reduction](./Chapter%204%20-%20Basic%20Communication%20Operations/4.1%20One-to-All%20Broadcast%20and%20All-to-One%20Reduction.md)
+  - [x] [4.2 All-to-All Broadcast和All-to-All Reduction](./Chapter%204%20-%20Basic%20Communication%20Operations/4.2%20All-to-All%20Broadcast%20and%20Reduction.md)
+  - [x] [4.3 All-Reduce和Prefix-Sum操作](./Chapter%204%20-%20Basic%20Communication%20Operations/4.3%20All-Reduce%20and%20Prefix-Sum%20Operations.md)
+  - [x] [4.4 Scatter和Gather操作](./Chapter%204%20-%20Basic%20Communication%20Operations/4.4%20Scatter%20and%20Gather.md)
+  - [x] [4.5 All-to-All Personalized Communication](./Chapter%204%20-%20Basic%20Communication%20Operations/4.5%20All-to-All%20Personalized%20Communication.md)
+  - [x] [4.6 循环移位](./Chapter%204%20-%20Basic%20Communication%20Operations/4.6%20Circular%20Shift.md)
+  - [x] [4.7 提高通信速度的方法](./Chapter%204%20-%20Basic%20Communication%20Operations/4.7%20Improving%20the%20Speed%20of%20Some%20Communication%20Operations.md)
+  - [x] [4.8 总结](./Chapter%204%20-%20Basic%20Communication%20Operations/4.8%20Summary.md)
 
 ## [**Chapter 5 - Analytical Modeling of Parallel Programs**](./Chapter%205%20-%20Analytical%20Modeling%20of%20Parallel%20Programs/README.md)
 
